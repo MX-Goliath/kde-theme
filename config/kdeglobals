@@ -1,9 +1,47 @@
+[$Version]
+update_info=breeze-upgrade-v5
+
+[DirSelect Dialog]
+DirSelectDialog Size=650,400
+
+[FileDialog Settings]
+CompletionMode=5
+ShowFullPath=false
+
+[General]
+ColorScheme=Layan
+fixed=Noto Sans Mono,10,-1,5,50,0,0,0,0,0
+font=Noto Sans,10,-1,5,50,0,0,0,0,0
+menuFont=Noto Sans,10,-1,5,50,0,0,0,0,0
+smallestReadableFont=Noto Sans,8,-1,5,50,0,0,0,0,0
+toolBarFont=Noto Sans,10,-1,5,50,0,0,0,0,0
+
+[Icons]
+Theme=Tela
+
 [KDE]
 LookAndFeelPackage=com.github.vinceliuice.Layan
 widgetStyle=kvantum-dark
 
-[General]
-ColorScheme=Layan
+[Locale]
+Country=US
+Language=en_US
 
-[Icons]
-Theme=Tela
+[Paths]
+Download=$HOME/Downloads
+Desktop=$HOME/Desktop
+Documents=$HOME/Documents
+Music=$HOME/Music
+Pictures=$HOME/Pictures
+Videos=$HOME/Videos
+
+[Toolbar style]
+ToolButtonStyle=TextBesideIcon
+
+[WM]
+activeBackground=54,56,62
+activeBlend=59,62,68
+activeForeground=221,221,221
+inactiveBackground=62,65,71
+inactiveBlend=67,71,77
+inactiveForeground=120,120,120
