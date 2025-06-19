@@ -20,6 +20,7 @@ else
   KVANTUM_DIR="$HOME/.config/Kvantum"
   WALLPAPER_DIR="$HOME/.local/share/wallpapers"
 fi
+CONFIG_DIR="$HOME/.config"
 
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
@@ -32,6 +33,7 @@ COLOR_VARIANTS=('' '-light')
 [[ ! -d ${LOOKFEEL_DIR} ]] && mkdir -p ${LOOKFEEL_DIR}
 [[ ! -d ${KVANTUM_DIR} ]] && mkdir -p ${KVANTUM_DIR}
 [[ ! -d ${WALLPAPER_DIR} ]] && mkdir -p ${WALLPAPER_DIR}
+[[ ! -d ${CONFIG_DIR} ]] && mkdir -p ${CONFIG_DIR}
 
 install() {
   local name=${1}
@@ -61,5 +63,9 @@ echo "Installing '${THEME_NAME} kde themes'..."
 for color in "${colors[@]:-${COLOR_VARIANTS[@]}}"; do
   install "${name:-${THEME_NAME}}" "${color}"
 done
+
+# Apply Layan configuration files
+cp -f ${SRC_DIR}/config/kdeglobals ${CONFIG_DIR}/kdeglobals
+cp -f ${SRC_DIR}/config/plasmarc ${CONFIG_DIR}/plasmarc
 
 echo "Install finished..."
