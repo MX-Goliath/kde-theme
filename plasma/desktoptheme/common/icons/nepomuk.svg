@@ -1,95 +1,98 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   id="svg7384"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg15"
+   viewBox="0 0 22 22"
+   version="1.1"
+   sodipodi:docname="nepomuk.svg"
    width="22"
    height="22"
-   enable-background="new"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="nepomuk.svg"
-   version="1.1"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <sodipodi:namedview
-     id="namedview9"
-     bordercolor="#999999"
+     inkscape:document-rotation="0"
+     pagecolor="#00c02f"
+     bordercolor="#666666"
      borderopacity="1"
+     objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
-     inkscape:bbox-nodes="true"
-     inkscape:current-layer="nepomuk"
-     inkscape:cx="53.927965"
-     inkscape:cy="20.834745"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="985"
+     id="namedview12"
+     showgrid="true"
      inkscape:snap-bbox="true"
-     inkscape:snap-nodes="false"
-     inkscape:window-height="698"
-     inkscape:window-maximized="1"
-     inkscape:window-width="1368"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="-11.070017"
+     inkscape:cy="19.576905"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="10.727273"
-     objecttolerance="10"
-     pagecolor="#ffffff"
-     showgrid="true"
-     inkscape:showpageshadow="2"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#e5e5e5">
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15">
     <inkscape:grid
-       id="grid818"
-       type="xygrid" />
+       type="xygrid"
+       id="grid837" />
   </sodipodi:namedview>
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <defs
-     id="defs7386">
+     id="defs3">
     <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#363636; }</style>
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text { color:#363636; }</style>
+    <style
+       type="text/css"
+       id="current-color-scheme-6">.ColorScheme-Text { color:#363636; }
+  </style>
   </defs>
   <g
-     id="22-22-nepomuk"
-     class="ColorScheme-Text"
-     style="fill:currentColor">
+     id="nepomuk">
+    <path
+       id="path10"
+       fill="none"
+       d="M 22,0 V 32 H 54 V 0 Z" />
+    <path
+       id="path12"
+       fill="currentColor"
+       d="m 29.125,7.1247 a 9,9 0 0 0 0,12.728 9,9 0 0 0 11.167,1.2347 c 0.04787,0.06034 0.09056,0.12371 0.14639,0.17954 l 5.6569,5.6569 c 0.78347,0.78347 2.045,0.78347 2.8284,0 0.7834,-0.78347 0.78347,-2.045 0,-2.8284 l -5.6569,-5.6569 c -0.05536,-0.05536 -0.11836,-0.09748 -0.17816,-0.14501 a 9,9 0 0 0 -1.2361,-11.169 9,9 0 0 0 -12.728,0 z m 1.4142,1.4142 a 7,7 0 0 1 9.8995,0 7,7 0 0 1 0,9.8995 7,7 0 0 1 -9.8995,0 7,7 0 0 1 0,-9.8995 z"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="22-22-nepomuk">
+    <path
+       id="path5"
+       fill="none"
+       d="m 0,-0.019 v 22 h 22 v -22 z" />
     <rect
-       id="rect4150"
-       width="22"
+       transform="rotate(90)"
+       ry="6.4166665"
+       y="-22"
+       x="9.5367432e-07"
        height="22"
-       opacity="0" />
+       width="22"
+       id="rect882"
+       style="opacity:0.8;fill:#000000;fill-opacity:0.16;stroke-width:0.471428;stroke-linecap:round" />
     <path
-       id="path824"
-       d="M 9.5 3 A 6.5 6.5 0 0 0 3 9.5 A 6.5 6.5 0 0 0 9.5 16 A 6.5 6.5 0 0 0 13.322266 14.738281 L 17.244141 18.658203 C 17.635877 19.04994 18.266466 19.04994 18.658203 18.658203 C 19.04994 18.266466 19.04994 17.635877 18.658203 17.244141 L 14.738281 13.322266 A 6.5 6.5 0 0 0 16 9.5 A 6.5 6.5 0 0 0 9.5 3 z M 9.5 5 A 4.5 4.5 0 0 1 14 9.5 A 4.5 4.5 0 0 1 9.5 14 A 4.5 4.5 0 0 1 5 9.5 A 4.5 4.5 0 0 1 9.5 5 z " />
-  </g>
-  <g
-     id="16-16-nepomuk"
-     class="ColorScheme-Text"
-     style="fill:currentColor">
-    <rect
-       id="rect572"
-       width="16"
-       height="16"
-       opacity="0"
-       x="-25"
-       y="4"
-       style="opacity:1;fill:none;stroke-width:0.727273" />
-    <path
-       id="path574"
-       d="M -18.5 4 A 6.5 6.5 0 0 0 -25 10.5 A 6.5 6.5 0 0 0 -18.5 17 A 6.5 6.5 0 0 0 -14.677734 15.738281 L -10.755859 19.658203 C -10.364122 20.04994 -9.7335336 20.04994 -9.3417969 19.658203 C -8.9500601 19.266467 -8.9500601 18.635877 -9.3417969 18.244141 L -13.261719 14.322266 A 6.5 6.5 0 0 0 -12 10.5 A 6.5 6.5 0 0 0 -18.5 4 z M -18.5 6 A 4.5 4.5 0 0 1 -14 10.5 A 4.5 4.5 0 0 1 -18.5 15 A 4.5 4.5 0 0 1 -23 10.5 A 4.5 4.5 0 0 1 -18.5 6 z " />
-  </g>
-  <g
-     id="nepomuk"
-     class="ColorScheme-Text"
-     style="fill:currentColor">
-    <rect
-       id="rect588"
-       width="32"
-       height="32"
-       opacity="0"
-       x="36"
-       y="0"
-       style="color:#363636;fill:#363636;stroke-width:1.45455" />
-    <path
-       id="path651"
-       d="M 49.5 4 A 9.5 9.5 0 0 0 40 13.5 A 9.5 9.5 0 0 0 49.5 23 A 9.5 9.5 0 0 0 55.460938 20.875 L 61.875 27.289062 C 62.266737 27.680799 62.897326 27.680799 63.289062 27.289062 C 63.680799 26.897326 63.680799 26.266737 63.289062 25.875 L 56.875 19.460938 A 9.5 9.5 0 0 0 59 13.5 A 9.5 9.5 0 0 0 49.5 4 z M 49.5 6 A 7.5 7.5 0 0 1 57 13.5 A 7.5 7.5 0 0 1 54.802734 18.802734 A 7.5 7.5 0 0 1 49.5 21 A 7.5 7.5 0 0 1 42 13.5 A 7.5 7.5 0 0 1 49.5 6 z " />
+       d="m 9.4948239,3.9948249 c -3.0260004,0 -5.4999998,2.474 -5.4999998,5.5 0,3.0260001 2.4739994,5.5000001 5.4999998,5.5000001 a 5.46,5.46 0 0 0 3.1113281,-0.974609 l 3.681641,3.68164 a 1,1 0 1 0 1.414062,-1.414062 l -3.68164,-3.681641 a 5.46,5.46 0 0 0 0.974609,-3.1113281 c 0,-3.026 -2.474,-5.5 -5.5000001,-5.5 z m -0.08984,1.25 a 4.25,4.25 0 0 1 0.08984,0 4.25,4.25 0 0 1 4.2500001,4.25 4.25,4.25 0 0 1 -4.2500001,4.2500001 4.25,4.25 0 0 1 -4.2499998,-4.2500001 4.25,4.25 0 0 1 4.1601568,-4.25 z"
+       style="fill:#ffffff;stroke-width:2;stroke-linecap:round;fill-opacity:1"
+       id="rect856" />
   </g>
 </svg>
